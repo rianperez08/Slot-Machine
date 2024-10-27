@@ -1,4 +1,4 @@
-# anino_exam
+# Slot Machine
 
 This is a simple roulette wheel game built in Unity 2020.3.33f1.
 
